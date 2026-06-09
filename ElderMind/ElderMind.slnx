@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ElderMind.Ai/ElderMind.Ai.csproj" />
+  <Project Path="ElderMind.ConsoleApp/ElderMind.ConsoleApp.csproj" />
+  <Project Path="ElderMind.Domain/ElderMind.Domain.csproj" />
+  <Project Path="ElderMind.Infrastructure/ElderMind.Infrastructure.csproj" />
+</Solution>
